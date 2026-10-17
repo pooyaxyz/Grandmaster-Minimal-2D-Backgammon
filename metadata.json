@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Minimal 2D Backgammon",
+  "description": "Minimal and fast-loading 2D Backgammon featuring real-time multiplayer, smart AI practice, private room codes, full-viewport responsive board, customizable themes, rankings, and daily rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
